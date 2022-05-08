@@ -1,0 +1,30 @@
+#EXTM3U 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="LD - FOX SPORTS 1 HD (CHILE)" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 1 HD (CHILE) 
+http://ac.ntvlatino.com:8080/pope/2022/3612 
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="ARG - FOX SPORTS 1 ᴴᴰ" tvg-logo="http://img3.wikia.nocookie.net/__cb20130311223301/logopedia/images/f/fe/Foxdeportes2012.png" group-title="ARGENTINA",ARG - FOX SPORTS 1 ᴴᴰ 
+http://ac.ntvlatino.com:8080/pope/2022/1090738 
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="ARG - FOX SPORTS 1" tvg-logo="http://img3.wikia.nocookie.net/__cb20130311223301/logopedia/images/f/fe/Foxdeportes2012.png" group-title="ARGENTINA",ARG - FOX SPORTS 1 
+http://ac.ntvlatino.com:8080/pope/2022/1090739 
+#EXTINF:-1 tvg-id="" tvg-name="LD - FOX SPORTS 1 SD (CHILE)" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title="• LATINO DEPORTES •",LD - FOX SPORTS 1 SD (CHILE) 
+http://ac.ntvlatino.com:8080/pope/2022/1095232 
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="LD - ESPN 1 SUR HD" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •",LD - ESPN 1 SUR HD 
+http://ac.ntvlatino.com:8080/pope/2022/3614 
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="LD - ESPN 1 SUR SD" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="• LATINO DEPORTES •",LD - ESPN 1 SUR SD 
+http://ac.ntvlatino.com:8080/pope/2022/33469 
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="URU - ESPN URUGUAY HD" tvg-logo="https://i.pinimg.com/originals/46/20/0d/46200d34573f4112c7414023c3a12f9a.png" group-title="URUGUAY",URU - ESPN URUGUAY HD 
+http://ac.ntvlatino.com:8080/pope/2022/3621 
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - ESPN CHILE HD" tvg-logo="https://pinzondiego.com/wp-content/uploads/2021/01/ESPN-Logo.png" group-title="CHILE",CHILE - ESPN CHILE HD 
+http://ac.ntvlatino.com:8080/pope/2022/1068348 
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ARG - ESPN 1 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="ARGENTINA",ARG - ESPN 1 ᴴᴰ 
+http://ac.ntvlatino.com:8080/pope/2022/1090736 
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ARG - ESPN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="ARGENTINA",ARG - ESPN 1 
+http://ac.ntvlatino.com:8080/pope/2022/1090737 
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="LD - UNIVISION DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •",LD - UNIVISION DEPORTES FHD 
+http://ac.ntvlatino.com:8080/pope/2022/3962 
+#EXTINF:-1 tvg-id="TDN.mx" tvg-name="LD - UNIVISION TUDN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •",LD - UNIVISION TUDN HD 
+http://ac.ntvlatino.com:8080/pope/2022/4117 
+#EXTINF:-1 tvg-id="TDN.mx" tvg-name="LD - TUDN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" group-title="• LATINO DEPORTES •",LD - TUDN FHD 
+http://ac.ntvlatino.com:8080/pope/2022/3963 
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="LAT - UNIVISION HD" tvg-logo="https://i.ibb.co/xHXkM2N/univision.png" group-title="LATINOS [USA]",LAT - UNIVISION HD 
+http://ac.ntvlatino.com:8080/pope/2022/3796
