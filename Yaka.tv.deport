@@ -1,5 +1,85 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="ext" group-title="Children",鉁解溄猸� RMC Sports FR 猸掆溄鉁�
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682960
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 1 FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682956
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 1 HD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/625226
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 2 FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682957
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 2 HD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682955
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 3 FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682958
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 3 HD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/625233
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 4 FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682959
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 4 HD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682961
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 5 [Match Time] FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682962
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 6 [Match Time] FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682963
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 7 [Match Time] FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682964
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 8 [Match Time] FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682965
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 9 [Match Time] FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682967
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 10 [Match Time] FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682966
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 11 [Match Time] FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682968
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 12 [Match Time] FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682969
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 13 [Match Time] FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682970
+#EXTINF:0 tvg-id="ext" group-title="Children",RMC Sport 14 [Match Time] FHD FR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682971
+#EXTINF:0 tvg-id="ext" group-title="Children",鉁解溄猸� Global Sports AR 猸掆溄鉁�
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/683571
+#EXTINF:0 tvg-id="ext" group-title="Children",ON Time Sport HD AR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/688268
+#EXTINF:0 tvg-id="ext" group-title="Children",AD Sports 1 HD AR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682978
+#EXTINF:0 tvg-id="ext" group-title="Children",AD Sports 2 HD AR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682979
+#EXTINF:0 tvg-id="ext" group-title="Children",AD Sports 3 HD AR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682973
+#EXTINF:0 tvg-id="ext" group-title="Children",AD Sports 4 FHD AR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/5404
+#EXTINF:0 tvg-id="ext" group-title="Children",Dubai Sports 1 HD AR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682975
+#EXTINF:0 tvg-id="ext" group-title="Children",Dubai Sports 2 HD AR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682976
+#EXTINF:0 tvg-id="ext" group-title="Children",Yas Sport HD AR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682972
+#EXTINF:0 tvg-id="ext" group-title="Children",鉁解溄猸� Global Sports TR 猸掆溄鉁�
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/683572
+#EXTINF:0 tvg-id="TRT3.tr" group-title="Children",TRT Spor FHD TR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/683139
+#EXTINF:0 tvg-id="ext" group-title="Children",TRT Spor Yildiz FHD TR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/683140
+#EXTINF:0 tvg-id="ext" group-title="Children",Tivibuspor 2 HD TR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/678942
+#EXTINF:0 tvg-id="ext" group-title="Children",Tivibuspor HD TR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/5439
+#EXTINF:0 tvg-id="ext" group-title="Children",Tivibuspor 3 HD TR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682980
+#EXTINF:0 tvg-id="ext" group-title="Children",Smart Spor HD TR
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/5446
+#EXTINF:0 tvg-id="ext" group-title="Children",鉁解溄猸� Global Sports IN 猸掆溄鉁�
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/682927
+#EXTINF:0 tvg-id="ext" group-title="Children",TEN Sports FHD IN
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/5433
+#EXTINF:0 tvg-id="StarSports1.in" group-title="Children",Star Sports 1 IN
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/5431
+#EXTINF:0 tvg-id="StarSports2.in" group-title="Children",Star Sports 2 IN
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/5430
+#EXTINF:0 tvg-id="StarSports3.in" group-title="Children",Star Sports 3 IN
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/5429
 #EXTINF:0 tvg-id="ext" group-title="Children",鉁解溄鉁解溄 Sports 鉁解溄鉁解溄
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/5427
 #EXTINF:0 tvg-id="ext" group-title="Children",鉁解溄猸� SuperSport PPV Events 猸掆溄鉁�
