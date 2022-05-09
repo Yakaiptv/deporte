@@ -43,3 +43,23 @@ http://ppns.io:80/Romilson1/Romilson1/18673
 http://ppns.io:80/Romilson1/Romilson1/18680
 #EXTINF:-1 tvg-logo="" group-title="Canais | Internacionais",Euro Channel FHD
 http://ppns.io:80/Romilson1/Romilson1/28400
+#EXTINF:-1 tvg-logo="https://static.black/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 FHD
+http://ppns.io:80/Romilson1/Romilson1/18778
+#EXTINF:-1 tvg-logo="https://static.black/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 FHD [H265]
+http://ppns.io:80/Romilson1/Romilson1/22196
+#EXTINF:-1 tvg-logo="https://static.black/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 HD
+http://ppns.io:80/Romilson1/Romilson1/18657
+#EXTINF:-1 tvg-logo="https://static.black/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 SD
+http://ppns.io:80/Romilson1/Romilson1/18658
+#EXTINF:-1 tvg-logo="https://static.black/foxsports2.png" group-title="Canais | 4K",FOX SPORTS 2 [4K]
+http://ppns.io:80/Romilson1/Romilson1/26406
+#EXTINF:-1 tvg-logo="https://static.black/foxsports.png" group-title="Canais | Esportes",ESPN 4 FHD
+http://ppns.io:80/Romilson1/Romilson1/18777
+#EXTINF:-1 tvg-logo="https://static.black/foxsports.png" group-title="Canais | Esportes",ESPN 4 FHD [H265]
+http://ppns.io:80/Romilson1/Romilson1/22195
+#EXTINF:-1 tvg-logo="https://static.black/foxsports.png" group-title="Canais | Esportes",ESPN 4 HD
+http://ppns.io:80/Romilson1/Romilson1/18659
+#EXTINF:-1 tvg-logo="https://static.black/foxsports.png" group-title="Canais | Esportes",ESPN 4 SD
+http://ppns.io:80/Romilson1/Romilson1/18660
+#EXTINF:-1 tvg-logo="https://static.black/foxsports.png" group-title="Canais | 4K",FOX SPORTS [4K]
+http://ppns.io:80/Romilson1/Romilson1/26187
