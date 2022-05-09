@@ -1,4 +1,51 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? NL Sports ???
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/683257
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sport HD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/11387
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sport Tennis FHD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/625239
+#EXTINF:0 tvg-id="ZiggoSportRacing.nl" group-title="Channels",Ziggo Sport Voetbal HD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/5112
+#EXTINF:0 tvg-id="ZiggoSportGolf.nl" group-title="Channels",Ziggo Sport Golf FHD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/5114
+#EXTINF:0 tvg-id="ZiggoSportGolf.nl" group-title="Channels",Ziggo Sport Golf HD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/6460
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sport Racing FHD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/13119
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sport Racing HD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/5111
+#EXTINF:0 tvg-id="ZiggoSportSelect.nl" group-title="Channels",Ziggo Sport Select FHD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/53267
+#EXTINF:0 tvg-id="ZiggoSportSelect.nl" group-title="Channels",Ziggo Sport Select HD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/5113
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sport Docu FHD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/5110
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN FHD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/6487
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN HD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/5143
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 FHD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/6486
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 HD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/5142
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 FHD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/6485
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 HD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/5141
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 4 FHD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/64848
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 4 HD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/514522
+#EXTINF:0 tvg-id="Eurosport1.nl" group-title="Channels",Eurosport 1 FHD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/11444
+#EXTINF:0 tvg-id="Eurosport1.nl" group-title="Channels",Eurosport 1 HD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/11445
+#EXTINF:0 tvg-id="Eurosport2.nl" group-title="Channels",Eurosport 2 FHD NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/11443
+#EXTINF:0 tvg-id="ExtremeSports.nl" group-title="Channels",Extreme Sports NL
+http://mytv.fun:8080/cxexv9aig/uojp2bknne/11442
+__________________________________________________________________________________
 #EXTINF:0 tvg-id="ext" group-title="Channels",??? ES Sports ???
 http://mytv.fun:8080/mbg958k19/m2858nffk4/679811
 #EXTINF:0 tvg-id="BeINSports.es" group-title="Channels",bein Sports Espana FHD ES
