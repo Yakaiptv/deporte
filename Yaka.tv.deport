@@ -1,4 +1,82 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Sports",------- Sports -------
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/679811
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Sports",bein Sports Espana FHD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/7248
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Sports",bein Sports Espana HD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/8745
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Sports",beIN Sports Espana ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/13540
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 1 FHD VIP ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/683544
+#EXTINF:0 tvg-id="ext" group-title="Sports",DAZN 2 HD VIP ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/683545
+#EXTINF:0 tvg-id="ext" group-title="Sports",La Liga TV BAR HD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/669971
+#EXTINF:0 tvg-id="ext" group-title="Sports",Movistar La Liga FHD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/16274
+#EXTINF:0 tvg-id="ext" group-title="Sports",Movistar La Liga 1 [Match Time] ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/683144
+#EXTINF:0 tvg-id="ext" group-title="Sports",Movistar Vamos Bar ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/683141
+#EXTINF:0 tvg-id="ext" group-title="Sports",Movistar Vamos FHD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/682871
+#EXTINF:0 tvg-id="ext" group-title="Sports",Movistar Vamos HD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/682872
+#EXTINF:0 tvg-id="ext" group-title="Sports",Movistar Liga De Campeones FHD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/620686
+#EXTINF:0 tvg-id="ext" group-title="Sports",Movistar Liga De Campeones HD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/620685
+#EXTINF:0 tvg-id="ext" group-title="Sports",Movistar Liga De Campeones 1 [Match Time] HD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/683153
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Sports",Movistar Deportes FHD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/16278
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Sports",Movistar Deportes HD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/7240
+#EXTINF:0 tvg-id="M.Deportes2.es" group-title="Sports",Movistar Deportes 2 FHD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/16277
+#EXTINF:0 tvg-id="M.Deportes2.es" group-title="Sports",Movistar Deportes 2 HD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/7239
+#EXTINF:0 tvg-id="CanalPlusFutbol.es" group-title="Sports",Movistar Futbol FHD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/13551
+#EXTINF:0 tvg-id="CanalPlusFutbol.es" group-title="Sports",Movistar Futbol HD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/8783
+#EXTINF:0 tvg-id="CanalPlusFutbol.es" group-title="Sports",Movistar Futbol ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/7238
+#EXTINF:0 tvg-id="ext" group-title="Sports",Movistar F1 FHD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/7246
+#EXTINF:0 tvg-id="ext" group-title="Sports",Movistar F1 HD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/13549
+#EXTINF:0 tvg-id="ext" group-title="Sports",Movistar F1 ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/71971
+#EXTINF:0 tvg-id="Golf.es" group-title="Sports",Movistar Golf FHD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/7237
+#EXTINF:0 tvg-id="Golf.es" group-title="Sports",Movistar Golf HD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/13550
+#EXTINF:0 tvg-id="ext" group-title="Sports",Gol TV ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/13457
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="Sports",Teledeporte ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/7178
+#EXTINF:0 tvg-id="ext" group-title="Sports",Real Madrid Channel ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/7182
+#EXTINF:0 tvg-id="ext" group-title="Sports",Tele Madrid ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/679745
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Sports",Barca TV ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/7250
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="Sports",Eurosport 1 HD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/8746
+#EXTINF:0 tvg-id="ext" group-title="Sports",Eurosport 2 ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/13531
+#EXTINF:0 tvg-id="ext" group-title="Sports",Viajar FHD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/7170
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Sports",Toros HD ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/13548
+#EXTINF:0 tvg-id="ext" group-title="Sports",ETB SAT ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/684922
+#EXTINF:0 tvg-id="ext" group-title="Sports",ETB 1 ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/684921
+#EXTINF:0 tvg-id="ext" group-title="Sports",ETB 2 ES
+http://ipflix.click:8080/6u0lvy2gfn/rkp053z977hn/684923
 
 #EXTINF:0 tvg-id="Eurosport1.es" group-title="Channels",Eurosport 1 FHD ES
 http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/8746
