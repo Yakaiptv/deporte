@@ -1,4 +1,90 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Calcio FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686236
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Calcio HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686237
+#EXTINF:0 tvg-id="SkySport251.it" group-title="Sports",Sky Calcio 1 FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686238
+#EXTINF:0 tvg-id="SkySport251.it" group-title="Sports",Sky Calcio 1 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686239
+#EXTINF:0 tvg-id="SkySport252.it" group-title="Sports",Sky Calcio 2 FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686240
+#EXTINF:0 tvg-id="SkySport252.it" group-title="Sports",Sky Calcio 2 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686241
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Uno FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686213
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Uno HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686214
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Arena FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686215
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Arena HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686216
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Football FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686217
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Football HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686218
+#EXTINF:0 tvg-id="SKYSport24.it" group-title="Sports",Sky Sport 24 FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686211
+#EXTINF:0 tvg-id="SKYSport24.it" group-title="Sports",Sky Sport 24 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686212
+#EXTINF:0 tvg-id="SkySportF1.it" group-title="Sports",Sky Sport F1 FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686225
+#EXTINF:0 tvg-id="SkySportF1.it" group-title="Sports",Sky Sport F1 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686227
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Moto GP FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686219
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Moto GP HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686220
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport NBA FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686223
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport NBA HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686224
+#EXTINF:0 tvg-id="ext" group-title="Sports",Eurosport 1 FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686228
+#EXTINF:0 tvg-id="ext" group-title="Sports",Eurosport 1 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686230
+#EXTINF:0 tvg-id="esp2" group-title="Sports",Eurosport 2 FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686231
+#EXTINF:0 tvg-id="esp2" group-title="Sports",Eurosport 2 HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686232
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sport Italia IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686233
+#EXTINF:0 tvg-id="ext" group-title="Sports",Supertennis HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686282
+#EXTINF:0 tvg-id="ext" group-title="Sports",Supertennis FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686281
+#EXTINF:0 tvg-id="ext" group-title="Sports",Inter Channel FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686275
+#EXTINF:0 tvg-id="ext" group-title="Sports",Roma Channel FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686276
+#EXTINF:0 tvg-id="ext" group-title="Sports",Lazio Style IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686277
+#EXTINF:0 tvg-id="ext" group-title="Sports",Rai Sport+ FHD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686209
+#EXTINF:0 tvg-id="ext" group-title="Sports",Rai Sport+ HD IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686210
+#EXTINF:0 tvg-id="ext" group-title="Sports",Uniresat IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686283
+#EXTINF:0 tvg-id="ext" group-title="Sports",Top Calcio 24 IT
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686279
+#EXTINF:0 tvg-id="ext" group-title="Sports",------- Sports -------
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/688533
+#EXTINF:0 tvg-id="ext" group-title="Sports",Fox Sports 1 HD ARG
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/626925
+#EXTINF:0 tvg-id="ext" group-title="Sports",Fox Sport 2 LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/67132
+#EXTINF:0 tvg-id="ext" group-title="Sports",ESPN LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6710
+#EXTINF:0 tvg-id="ext" group-title="Sports",ESPN 2 LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/6709
+#EXTINF:0 tvg-id="ext" group-title="Sports",ESPN 3 LAM
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/33497
+#EXTINF:0 tvg-id="ext" group-title="Sports",DeporTV FHD ARG
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/626931
+#EXTINF:0 tvg-id="ext" group-title="Sports",Garage TV ARG
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/626922
+#EXTINF:0 tvg-id="ext" group-title="Sports",TYC ARG
+http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/626909
 #EXTINF:0 tvg-id="ext" group-title="Sports",------- Sports -------
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/679811
 #EXTINF:0 tvg-id="BeINSports.es" group-title="Sports",bein Sports Espana FHD ES
