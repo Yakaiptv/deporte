@@ -1,4 +1,54 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? ES Sports ???
+http://mytv.fun:8080/mbg958k19/m2858nffk4/679811
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Channels",bein Sports Espana FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7248
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Channels",bein Sports Espana HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8745
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1 FHD VIP ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/683544
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 2 HD VIP ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/683545
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN F1 FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7246
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN F1 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13549
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar La Liga HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/669971
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar La Liga FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/16274
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Vamos FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/682871
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Vamos HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/682872
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Liga De Campeones FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/620686
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Liga De Campeones HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/620685
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",Movistar Deportes FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/16278
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",Movistar Deportes HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7240
+#EXTINF:0 tvg-id="Golf.es" group-title="Channels",Movistar Golf FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7237
+#EXTINF:0 tvg-id="Golf.es" group-title="Channels",Movistar Golf HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13550
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gol TV HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13457
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teledeporte HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7178
+#EXTINF:0 tvg-id="ext" group-title="Channels",Real Madrid Channel HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7182
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Channels",Barca TV ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/7250
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="Channels",Eurosport 1 FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/8746
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eurosport 2 FHD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13531
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Channels",Toros HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/13548
+#EXTINF:0 tvg-id="ext" group-title="Channels",ETB 1 HD ES
+http://mytv.fun:8080/mbg958k19/m2858nffk4/684922
 #EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Calcio FHD IT
 http://mytv.fun:8080/Ernsthorn/g8b9fn0p5g/686236
 #EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport Calcio HD IT
