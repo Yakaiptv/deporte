@@ -1,7 +1,7 @@
 #EXTM3U
 #
 
-#EXTINF:0 tvg-id="Eurosport1.es" group-title="DEPORTE.ESP",Eurosport 1 FHD ES
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="Channels",Eurosport 1 FHD ES
 http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/8746
 #EXTINF:0 tvg-id="ext" group-title="Channels",Eurosport 2 FHD ES
 http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/13531
