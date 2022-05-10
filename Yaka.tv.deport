@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,177_movistarliga
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/t61R2pNPb7SixlpEf2qr5v3dLORYf1USBhslXJWC4syIkL7S_WekmE62mmBhzvNmgjsGCsXjziamz4FruzOewQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1,177_Eurosport 1
 http://78.83.191.18:8000/play/a05y
 
