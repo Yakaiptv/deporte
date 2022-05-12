@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.black/bandsports.png" group-title="Canais | Esportes",BandSports FHD
 http://ppns.io:80/Romilson1/Romilson1/18852
-#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:4
 #EXT-X-MEDIA-SEQUENCE:2553
