@@ -1,4 +1,126 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://static.black/bandsports.png" group-title="Canais | Esportes",BandSports FHD
+http://ppns.io:80/Romilson1/Romilson1/18852
+
+#EXTINF:-1 tvg-logo="https://static.black/bandsports.png" group-title="Canais | Esportes",BandSports FHD [H265]
+http://ppns.io:80/Romilson1/Romilson1/22151
+
+#EXTINF:-1 tvg-logo="https://static.black/bandsports.png" group-title="Canais | Esportes",BandSports HD
+http://ppns.io:80/Romilson1/Romilson1/18723
+
+#EXTINF:-1 tvg-logo="https://static.black/bandsports.png" group-title="Canais | Esportes",BandSports SD
+http://ppns.io:80/Romilson1/Romilson1/18724
+
+#EXTINF:-1 tvg-logo="https://static.black/combate.png" group-title="Canais | Esportes",Combate FHD
+http://ppns.io:80/Romilson1/Romilson1/18784
+
+#EXTINF:-1 tvg-logo="https://static.black/combate.png" group-title="Canais | Esportes",Combate FHD [H265]
+http://ppns.io:80/Romilson1/Romilson1/25312
+
+#EXTINF:-1 tvg-logo="https://static.black/combate.png" group-title="Canais | Esportes",Combate HD
+http://ppns.io:80/Romilson1/Romilson1/18707
+
+#EXTINF:-1 tvg-logo="https://static.black/combate.png" group-title="Canais | Esportes",Combate SD
+http://ppns.io:80/Romilson1/Romilson1/18708
+
+#EXTINF:-1 tvg-logo="https://static.black/combate.png" group-title="Canais | 4K",COMBATE [4K]
+http://ppns.io:80/Romilson1/Romilson1/26180
+
+#EXTINF:-1 tvg-logo="https://static.black/espn2.png" group-title="Canais | Esportes",ESPN 2 FHD [H265]
+http://ppns.io:80/Romilson1/Romilson1/25309
+
+#EXTINF:-1 tvg-logo="https://static.black/espn2.png" group-title="Canais | Esportes",ESPN 2 HD
+http://ppns.io:80/Romilson1/Romilson1/18678
+
+#EXTINF:-1 tvg-logo="https://static.black/espn2.png" group-title="Canais | Esportes",ESPN 2 SD
+http://ppns.io:80/Romilson1/Romilson1/18679
+
+#EXTINF:-1 tvg-logo="https://static.black/espnbrasil.png" group-title="Canais | Esportes",ESPN FHD
+http://ppns.io:80/Romilson1/Romilson1/18781
+
+#EXTINF:-1 tvg-logo="https://static.black/espnbrasil.png" group-title="Canais | Esportes",ESPN FHD [H265]
+http://ppns.io:80/Romilson1/Romilson1/25238
+
+#EXTINF:-1 tvg-logo="https://static.black/espnbrasil.png" group-title="Canais | Esportes",ESPN HD
+http://ppns.io:80/Romilson1/Romilson1/18676
+
+#EXTINF:-1 tvg-logo="https://static.black/espnbrasil.png" group-title="Canais | Esportes",ESPN SD
+http://ppns.io:80/Romilson1/Romilson1/18677
+
+#EXTINF:-1 tvg-logo="https://static.black/espnextra.png" group-title="Canais | Esportes",ESPN Extra FHD
+http://ppns.io:80/Romilson1/Romilson1/18836
+
+#EXTINF:-1 tvg-logo="https://static.black/espnextra.png" group-title="Canais | Esportes",ESPN Extra HD
+http://ppns.io:80/Romilson1/Romilson1/18674
+
+#EXTINF:-1 tvg-logo="https://static.black/espnextra.png" group-title="Canais | Esportes",ESPN Extra SD
+http://ppns.io:80/Romilson1/Romilson1/18675
+
+#EXTINF:-1 tvg-logo="https://static.black/espn.png" group-title="Canais | Esportes",ESPN FHD
+http://ppns.io:80/Romilson1/Romilson1/18780
+
+#EXTINF:-1 tvg-logo="https://static.black/espn.png" group-title="Canais | Esportes",ESPN FHD [H265]
+http://ppns.io:80/Romilson1/Romilson1/25237
+
+#EXTINF:-1 tvg-logo="https://static.black/espn.png" group-title="Canais | Esportes",ESPN HD
+http://ppns.io:80/Romilson1/Romilson1/18673
+
+#EXTINF:-1 tvg-logo="https://static.black/espn.png" group-title="Canais | Esportes",ESPN SD
+http://ppns.io:80/Romilson1/Romilson1/18680
+
+#EXTINF:-1 tvg-logo="https://static.black/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 FHD
+http://ppns.io:80/Romilson1/Romilson1/18778
+
+#EXTINF:-1 tvg-logo="https://static.black/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 FHD [H265]
+http://ppns.io:80/Romilson1/Romilson1/22196
+
+#EXTINF:-1 tvg-logo="https://static.black/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 HD
+http://ppns.io:80/Romilson1/Romilson1/18657
+
+#EXTINF:-1 tvg-logo="https://static.black/foxsports2.png" group-title="Canais | Esportes",Fox Sports 2 SD
+http://ppns.io:80/Romilson1/Romilson1/18658
+
+#EXTINF:-1 tvg-logo="https://static.black/foxsports2.png" group-title="Canais | 4K",FOX SPORTS 2 [4K]
+http://ppns.io:80/Romilson1/Romilson1/26406
+
+#EXTINF:-1 tvg-logo="https://static.black/foxsports.png" group-title="Canais | Esportes",ESPN 4 FHD
+http://ppns.io:80/Romilson1/Romilson1/18777
+
+#EXTINF:-1 tvg-logo="https://static.black/foxsports.png" group-title="Canais | Esportes",ESPN 4 FHD [H265]
+http://ppns.io:80/Romilson1/Romilson1/22195
+
+#EXTINF:-1 tvg-logo="https://static.black/foxsports.png" group-title="Canais | Esportes",ESPN 4 HD
+http://ppns.io:80/Romilson1/Romilson1/18659
+
+#EXTINF:-1 tvg-logo="https://static.black/foxsports.png" group-title="Canais | Esportes",ESPN 4 SD
+http://ppns.io:80/Romilson1/Romilson1/18660
+
+#EXTINF:-1 tvg-logo="https://static.black/foxsports.png" group-title="Canais | 4K",FOX SPORTS [4K]
+http://ppns.io:80/Romilson1/Romilson1/26187
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes Internacionais",[US] NBA LEAGUE PASS FHD
+http://ppns.io:80/Romilson1/Romilson1/48241
+
+#EXTINF:-1 tvg-logo="https://static.black/redbull.png" group-title="Canais | Esportes Internacionais",[US] Red Bull TV
+http://ppns.io:80/Romilson1/Romilson1/49232
+
+#EXTINF:-1 tvg-logo="https://static.black/internacionais.png" group-title="Canais | Esportes Internacionais",Rai Italia SD
+http://ppns.io:80/Romilson1/Romilson1/49258
+
+#EXTINF:-1 tvg-logo="https://static.black/dazn.png" group-title="Canais | Esportes - PPV",DAZN 01
+http://ppns.io:80/Romilson1/Romilson1/54586
+
+#EXTINF:-1 tvg-logo="https://static.black/dazn.png" group-title="Canais | Esportes - PPV",DAZN 02
+http://ppns.io:80/Romilson1/Romilson1/54587
+
+#EXTINF:-1 tvg-logo="https://static.black/dazn.png" group-title="Canais | Esportes - PPV",DAZN 05
+http://ppns.io:80/Romilson1/Romilson1/54590
+
+#EXTINF:-1 tvg-logo="https://static.black/golf.png" group-title="Canais | Esportes Internacionais",[US] Golf Channel FHD
+http://ppns.io:80/Romilson1/Romilson1/58999
+
+
+
 
 #EXTINF:-1,177_Espn4 liga
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/3KV1fErA8aJ7KxrAr9f-crL0J2VyKpumz-SiV7F4Ot12dH-bWQBrGFVtjEXR6_6q8ZY9O3qo4KE_lQJg4erqJA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
