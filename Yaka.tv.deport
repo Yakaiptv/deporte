@@ -1,6 +1,40 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.black/bandsports.png" group-title="Canais | Esportes",BandSports FHD
 http://ppns.io:80/Romilson1/Romilson1/18852
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:2553
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7657966_7660966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7660966_7663966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7663966_7666966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7666966_7669966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7669966_7672966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7672966_7675966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7675966_7678966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7678966_7681966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7681966_7684966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7684966_7687966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7687966_7690966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7690966_7693966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7693966_7696966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7696966_7699966.ts
+#EXTINF:3.000000,
+https://mdw-cdn.livepeer.com/hls/video+ad39a634ajmfly51/2_0/7699966_7702966.ts
 
 #EXTINF:-1 tvg-logo="https://static.black/bandsports.png" group-title="Canais | Esportes",BandSports FHD [H265]
 http://ppns.io:80/Romilson1/Romilson1/22151
