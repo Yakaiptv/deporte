@@ -664,3 +664,5 @@ https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/in
 
 #EXTINF:-1,🇺🇸 Pelea dura
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1696086,RESOLUTION=852x480
+https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4618003/e/1_cybcdq4e/tl/main/st/0/t/1c0wEDj5L2DKSlcaeWrEHg/index-s32.m3u8?__hdnea__=st=1652383753~exp=1652470153~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4618003/e/1_cybcdq4e/tl/main/st/0/t/1c0wEDj5L2DKSlcaeWrEHg/index-s32.m3u8*~hmac=4f6e85105593cae0742bb0ccdc96a24f3126f25ab55df57912850f3b75089975
