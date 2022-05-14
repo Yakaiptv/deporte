@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="FUTBOL1⚽" group-title="Channels",FUTBOL1 Espana FHD ES
+https://4858d473831a.ap-northeast-2.playback.live-video.net/api/video/v1/ap-northeast-2.465663001648.channel.0fyVwIptp2zZ.m3u8
+____________DEPORTES-MOVISTAR_______________
+
 http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/679811
 #EXTINF:0 tvg-id="BeINSports.es" group-title="Channels",bein Sports Espana FHD ES
 http://mytv.fun:8080/iz9gjyd24d/8s0bpnwlo8/7248
