@@ -1,6 +1,12 @@
 #EXTM3U
-
 PELEAS
+
+
+#EXTINF:-1 CANAL BOXEO
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="UFC - BOX - WWE",COMBATE AMÉRICAS | LAT
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
