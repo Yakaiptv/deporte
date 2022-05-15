@@ -1,7 +1,7 @@
 #EXTM3U
 PELEAS
-
-
+#EXTINF:-1 tvg-logo="" group-title="UFC - BOX - WWE",KINBOXIN
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="UFC - BOX - WWE",BOXEO
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
