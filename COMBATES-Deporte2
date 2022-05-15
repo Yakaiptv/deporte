@@ -2,7 +2,8 @@
 PELEAS
 
 
-#EXTINF:-1 CANAL BOXEO
+
+#EXTINF:-1 tvg-logo="" group-title="UFC - BOX - WWE",BOXEO
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 
 
