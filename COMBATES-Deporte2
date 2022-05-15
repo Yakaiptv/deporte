@@ -1,9 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ngtx5Ge.png" group-title="UFC - BOX - WWE",•●★-- 📺 UFC - BOX - WWE 📺 --★●•
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ngtx5Ge.png" group-title="UFC - BOX - WWE" 1
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 
-#EXTINF:1,-UFC - BOX - WWE-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ngtx5Ge.png" group-title="UFC - BOX - WWE" 2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
+
+
+
 
 
 PELEAS
