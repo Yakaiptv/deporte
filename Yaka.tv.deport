@@ -1,4 +1,512 @@
 #EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? DE Sports ???
+
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/678834
+
+#EXTINF:0 tvg-id="SkySportF1.de" group-title="Channels",Sky Sport F1 FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/687666 
+#EXTINF:0 tvg-id="SkySportF1.de" group-title="Channels",Sky Sport F1 FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/695025 
+#EXTINF:0 tvg-id="SkySportF1.de" group-title="Channels",Sky Sport F1 HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/687667 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports News FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13555 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports News HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684431 
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Channels",Sky Sport 1 FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684432 
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Channels",Sky Sport 1 HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683895 
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Channels",Sky Sport 1 DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/9125 
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Channels",Sky Sport 1 DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684429 
+#EXTINF:0 tvg-id="SkySport2.de" group-title="Channels",Sky Sport 2 FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/694261 
+#EXTINF:0 tvg-id="SkySport2.de" group-title="Channels",Sky Sport 2 HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683896 
+#EXTINF:0 tvg-id="SkySport2.de" group-title="Channels",Sky Sport 2 HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/694262 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 3 [Match Time] FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13563 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 3 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6182 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 4 [Match Time] FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13562 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 4 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/9127 
+#EXTINF:0 tvg-id="SkySport5.de" group-title="Channels",Sky Sport 5 FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13561 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 5 [Match Time] FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/9126 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 6 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6181 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 7 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6180 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 8 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6179 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 9 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6178 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 10 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6177 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 1 [Match Time] FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684430 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 1 [Match Time-B] FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683408 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 1 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/73136 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 1 [Match Time-B] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683409 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 1 [Match Time] DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13538 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 1 [Match Time-B] DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684005 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 2 [Match Time] FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/62223 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 2 [Match Time-B] FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/135258 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 3 [Match Time] FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/135671 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 3 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/62220 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 4 [Match Time] FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/91235 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 5 [Match Time] FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/135335 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 5 [Match Time] DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/62002 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 6 [Match Time] FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/619225 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 7 [Match Time] DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6198 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 8 [Match Time] FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6197 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 9 [Match Time] DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6196 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 10 [Match Time] FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6195 
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1 FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/661090 
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1 FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/694188 
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1 HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/625243 
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1 HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/661088 
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 2 FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/661089 
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 2 HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/50775 
+#EXTINF:0 tvg-id="Sport1HD.de" group-title="Channels",Sport1 FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6173 
+#EXTINF:0 tvg-id="Sport1HD.de" group-title="Channels",Sport1 HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/8221 
+#EXTINF:0 tvg-id="SPORT1plus.de" group-title="Channels",Sport1+ FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679847 
+#EXTINF:0 tvg-id="SPORT1plus.de" group-title="Channels",Sport1+ HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679848 
+#EXTINF:0 tvg-id="ext" group-title="Channels",eSports 1 HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/687730 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Fuball 1 HD [Match Time] DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679821 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Fuball 2 HD [Match Time] DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679822 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Fuball 3 HD [Match Time] DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679823 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Fuball 4 HD [Match Time] DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679824 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Fuball 5 HD [Match Time] DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679825 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Fuball 6 HD [Match Time] DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679826 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Fuball 7 HD [Match Time] DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679827 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Fuball 8 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/688721 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Eishockey 1 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679671 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Eishockey 2 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679672 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Eishockey 3 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679673 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Eishockey 4 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679676 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Basketball 1 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679674 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telekom Basketball 2 [Match Time] HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679675 
+#EXTINF:0 tvg-id="Eurosport1.de" group-title="Channels",Eurosport 1 FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/8218 
+#EXTINF:0 tvg-id="Eurosport2.de" group-title="Channels",Eurosport 2 FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/9131 
+#EXTINF:0 tvg-id="sportdigital.de" group-title="Channels",Sport Digital FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/8244 
+#EXTINF:0 tvg-id="sportdigital.de" group-title="Channels",Sport Digital HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6171 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Motorvision HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/8222 
+#EXTINF:0 tvg-id="AutoMotorundSportChannel.de" group-title="Channels",Auto Motor Sport FHD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/9132 
+#EXTINF:0 tvg-id="ext" group-title="Channels",FC Bayern TV HD DE 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/9128
+
+EXTINF:0 tvg-id="ext" group-title="Channels",??? USA Sports ??? 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677100 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL Network FHD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/685903 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL Network HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/685902 
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Network FHD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/4868 
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Network HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/14402 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA TV HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684729 
+#EXTINF:0 tvg-id="NBA.us" group-title="Channels",NBA TV HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6355 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL Network HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/4875 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports Bay Area HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677158 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports Boston FHD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677159 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports Philadelphia HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/694114 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports California FHD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677160 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports Chicago HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677161 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports Washington HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677165 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Golf FHD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13753 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Golf HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/4953 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golf Channel HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6340 
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",Fox Sports 1 HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/14562 
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",Fox Sports 1 US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/63735 
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Channels",Fox Sports 2 HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/494259 
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Channels",Fox Sports 2 US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/63365 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Soccer Plus HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/14408 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bally Sports South HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677174 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bally Sports San Diego HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677172 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bally Sports Midwest HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677166 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bally Sports SoCal HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677149 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN News HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/4935 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN FHD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683881 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/14363 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 FHD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683882 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677173 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN U HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677140 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN U US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/33498 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Sec Network HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/32382 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Deportes HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677142 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 1 HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6353 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 2 HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6352 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 3 HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6351 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 4 HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679808 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 5 HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6349 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Yes Network HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/688786 
+#EXTINF:0 tvg-id="ext" group-title="Channels",SNY HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677151 
+#EXTINF:0 tvg-id="ext" group-title="Channels",MSG HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/623146 
+#EXTINF:0 tvg-id="ext" group-title="Channels",MSG+ HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677150 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pac-12 Network HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684756 
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC-12 Oregon HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13752 
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC-12 Oregon US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/4863 
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC-12 [Los Angeles] HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677124 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Big Ten Network HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684743 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Big Ten Network HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6361 
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS Sports Network HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/14385 
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports FHD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13759 
+#EXTINF:0 tvg-id="ext" group-title="Channels",beiN Sports HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/4902 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684705 
+#EXTINF:0 tvg-id="ext" group-title="Channels",UFC Fight Pass FHD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/16617 
+#EXTINF:0 tvg-id="ext" group-title="Channels",WWE Network FHD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683883 
+#EXTINF:0 tvg-id="ext" group-title="Channels",WWE Network HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/14404 
+#EXTINF:0 tvg-id="ext" group-title="Channels",MAV TV HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677152 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NESN HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/34415 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tennis Channel FHD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683506 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tennis Channel HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684767
+
+EXTINF:0 tvg-id="ext" group-title="Channels",??? USA Sports ??? 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677100 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL Network FHD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/685903 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NFL Network HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/685902 
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Network FHD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/4868 
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB Network HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/14402 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBA TV HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684729 
+#EXTINF:0 tvg-id="NBA.us" group-title="Channels",NBA TV HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6355 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHL Network HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/4875 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports Bay Area HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677158 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports Boston FHD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677159 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports Philadelphia HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/694114 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports California FHD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677160 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports Chicago HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677161 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Sports Washington HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677165 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Golf FHD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13753 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NBC Golf HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/4953 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Golf Channel HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6340 
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",Fox Sports 1 HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/14562 
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",Fox Sports 1 US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/63735 
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Channels",Fox Sports 2 HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/494259 
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="Channels",Fox Sports 2 US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/63365 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Soccer Plus HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/14408 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bally Sports South HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677174 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bally Sports San Diego HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677172 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bally Sports Midwest HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677166 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bally Sports SoCal HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677149 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN News HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/4935 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN FHD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683881 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/14363 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 FHD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683882 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677173 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN U HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677140 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN U US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/33498 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Sec Network HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/32382 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Deportes HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677142 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 1 HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6353 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 2 HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6352 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 3 HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6351 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 4 HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679808 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSN 5 HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6349 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Yes Network HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/688786 
+#EXTINF:0 tvg-id="ext" group-title="Channels",SNY HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677151 
+#EXTINF:0 tvg-id="ext" group-title="Channels",MSG HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/623146 
+#EXTINF:0 tvg-id="ext" group-title="Channels",MSG+ HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677150 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pac-12 Network HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684756 
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC-12 Oregon HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13752 
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC-12 Oregon US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/4863 
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAC-12 [Los Angeles] HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677124 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Big Ten Network HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684743 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Big Ten Network HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/6361 
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS Sports Network HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/14385 
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports FHD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13759 
+#EXTINF:0 tvg-id="ext" group-title="Channels",beiN Sports HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/4902 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684705 
+#EXTINF:0 tvg-id="ext" group-title="Channels",UFC Fight Pass FHD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/16617 
+#EXTINF:0 tvg-id="ext" group-title="Channels",WWE Network FHD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683883 
+#EXTINF:0 tvg-id="ext" group-title="Channels",WWE Network HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/14404 
+#EXTINF:0 tvg-id="ext" group-title="Channels",MAV TV HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/677152 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NESN HD US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/34415 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tennis Channel FHD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683506 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tennis Channel HD VIP US 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684767
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? ES Sports ???
+
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/679811 
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Channels",bein Sports Espana FHD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/7248 
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Channels",bein Sports Espana HD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/8745 
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1 FHD VIP ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683544 
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 2 HD VIP ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683545 
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN F1 FHD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/7246 
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN F1 HD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13549 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar La Liga HD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/669971 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar La Liga FHD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/16274 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Vamos FHD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/682871 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Vamos HD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/682872 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Liga De Campeones FHD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/620686 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Liga De Campeones HD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/620685 
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",Movistar Deportes FHD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/16278 
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",Movistar Deportes HD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/7240 
+#EXTINF:0 tvg-id="Golf.es" group-title="Channels",Movistar Golf FHD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/7237 
+#EXTINF:0 tvg-id="Golf.es" group-title="Channels",Movistar Golf HD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13550 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gol TV HD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13457 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teledeporte HD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/7178 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Real Madrid Channel HD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/7182 
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Channels",Barca TV ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/7250 
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="Channels",Eurosport 1 FHD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/8746 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eurosport 2 FHD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13531 
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Channels",Toros HD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/13548 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ETB 1 HD ES 
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/684922
+
+Sports ???
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/693953
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports News AU
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/686914
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 501 AU
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/686915
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 502 FHD AU
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/686916
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 503 HD AU
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/686917
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 504 HD AU
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/686918
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 505 HD AU
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/686919
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 506 AU
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/686920
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 507 AU
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/686921
+#EXTINF:0 tvg-id="ext" group-title="Channels",??? beIN Sports AR ???
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/682924
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Global FHD AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/688155
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports News FHD AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/676904
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 1 [HEVC] FHD VIP AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/678748
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 1 FHD AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/682932
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 2 [HEVC] FHD VIP AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/5481
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 2 FHD AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/682933
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 3 [HEVC] FHD VIP AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/5480
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 3 FHD AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/682934
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 4 [HEVC] FHD VIP AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/5479
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 5 [HEVC] FHD VIP AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/682935
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 5 FHD VIP AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/5478
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 6 [HEVC] FHD VIP AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/54777
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 7 [HEVC] FHD VIP AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/683135
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 7 FHD VIP AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/5476
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Premium 1 FHD VIP AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/53432
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Premium 1 HD VIP AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/688156
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Premium 2 FHD VIP AR
+http://mytv.fun:8080/8pwpmw9wf/fgg87dfvbn/688157
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports P
+
+
+______________________DEPORTES2___________________//
 #EXTINF:-1 tvg-id="" tvg-name="D| .../Adrenalina Sports" tvg-logo="" group-title="Deportes",D| .../Adrenalina Sports
 http://144.126.128.123:25461/manoapoyanos/shortgod.com/11644
 #EXTINF:-1 tvg-id="" tvg-name="D| .../Adrenalina Sports FHD" tvg-logo="" group-title="Deportes",D| .../Adrenalina Sports FHD
